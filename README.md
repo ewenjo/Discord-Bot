@@ -1,2 +1,3 @@
 # Discord-Bot
-A simple Discord Bot for the Coding Garden Community App
+
+A simple discord bot for the Coding Garden Comunity App
