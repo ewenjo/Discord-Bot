@@ -1,4 +1,5 @@
 {
+  "_comment": "RENAME THIS FILE TO config.json",
   "prefix": "!",
   "token": "Your Token here",
   "ids": {
