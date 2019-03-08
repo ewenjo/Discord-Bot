@@ -1,0 +1,13 @@
+{
+  "name": "Discord-Bot",
+  "version": "1.0.0",
+  "description": "A simple discord bot for community management",
+  "main": "index.js",
+  "repository": "https://github.com/AndCotOli/Discord-Bot.git",
+  "author": "Cotoli <cotoli23@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
