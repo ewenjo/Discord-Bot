@@ -1,0 +1,8 @@
+{
+  "prefix": "!",
+  "token": "Your Token here",
+  "ids": {
+    "visitorRole": "Default Role ID Here",
+    "adminRole": "Admin Role ID Here"
+  }
+}
